@@ -1,0 +1,13 @@
+public class Mercado{
+    //Produto
+      public doubleflout quantidade no estoque; 
+      public doubleflout preço; 
+        System.out.println("Tudo:" + quantidade no estoque + preço);
+     
+      //Pedido do Clinte
+        public doubleint numero de itens; 
+        public doubleflout dinheiro;
+        public doubleflout cartão; 
+        public doubleflout cheque; 
+         System.out.println("Ao todo;" + numero de itens + dinheiro "ou" + cartão "ou" + cheque);
+}
